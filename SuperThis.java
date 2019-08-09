@@ -1,4 +1,4 @@
-package sesssion3;
+package session3;
 
 public class SuperThis {
 	String field1;
