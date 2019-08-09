@@ -21,9 +21,7 @@ public class SuperThis {
 		SuperThis test=new SuperThis("ABC",10);
 		System.out.println(test.toString());
 		SuperThis test2=new SuperThis();
-		SuperThis test3=new SuperThis("XYZ");
-		
-		
+		SuperThis test3=new SuperThis("XYZ");		
 		test.print1("DEF");
 	}
 	public void print1(String field1) {
@@ -31,3 +29,4 @@ public class SuperThis {
 		System.out.println(field1);
 	}
 }
+
